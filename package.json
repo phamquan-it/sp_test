@@ -1,12 +1,12 @@
 {
-  "name": "sp_test_pkg",
-  "version": "1.0.0",
+  "name": "@test/sp_test_pkg",
+  "version": "@1.0.0",
   "description": "demo",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
+  "repository":   {
     "type": "git",
     "url": "git+ssh://git@github.com/phamquan-it/sp_test.git"
   },
@@ -14,6 +14,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/phamquan-it/sp_test/issues"
-  },
+  }, 
   "homepage": "https://github.com/phamquan-it/sp_test#readme"
 }
